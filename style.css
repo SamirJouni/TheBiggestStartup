@@ -14,15 +14,16 @@ body {
     height: 100%;
 }
 .title{
-    margin-top: 12rem;
+    font-size: 3rem;
+    margin-top: 15rem;
 }
 .button{
     font-size: 1.5rem;
     transition: all .8s;
 }
 .button:hover{
-    
+
 }
 .campaign {
-    margin-top: 25vh;
+    margin-top: 18vh;
 }
