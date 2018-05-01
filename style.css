@@ -15,15 +15,23 @@ body {
 }
 .title{
     font-size: 3rem;
-    margin-top: 15rem;
+    margin-top: 3rem;
+    margin-bottom: 5rem;
 }
 .button{
+    position: relative;
     font-size: 1.5rem;
-    transition: all .8s;
+    border-radius: 3rem;
+    padding: .9rem 1.5rem;
+    margin-top: .8rem;
 }
 .button:hover{
-
+    cursor: pointer;
+    border-width: .3rem;
 }
-.campaign {
-    margin-top: 18vh;
+.horizontalRule {
+    color: #dc3545;
+    background-color: #dc3545;
+    height: .2rem;
+    width: 5rem;
 }
